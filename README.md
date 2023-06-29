@@ -25,6 +25,6 @@ SO THAT I can manage my time effectively
 * When the user clicks the clear all button, the text is cleared from the input fields and also the local storage.
 
 
-![Screenshot](/assets/work-day-ss.png)
+![Screenshot](/Assets/work-day-ss.png)
 
 Link: https://txngyn.github.io/Work-Day-Scheduler/
